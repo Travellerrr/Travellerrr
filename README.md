@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Travellerrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=travellerrr&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Travellerrr)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Travellerrr)
