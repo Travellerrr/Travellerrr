@@ -1,19 +1,67 @@
-### 哦呀哦呀\~你好呀~ 👋
+<h1 align="left">你好呀~👋我是Travellerrr</h1>
 
-<!--
-**Travellerrr/Travellerrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="left">关于我📄</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
 
-| <a href="https://github.com/Travellerrr">![Travellerrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=travellerrr&show_icons=true&locale=cn&hide_border=true)</a> | <a href="https://github.com/Travellerrr">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Travellerrr&show_icons=true&locale=cn&hide_border=true)</a> |
-| ---------------------------------------- | ---------------------------------------- |
+还没想好qwq
+
+<br>
+
+###
+
+<h2 align="left">统计数据📊</h2>
+
+###
+
+<table align="right">
+  <tr>
+    <th> <img align="center" alt="Travellerrr's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=travellerrr&show_icons=true&locale=cn&hide_border=true" /> </th>
+  </tr>
+  <tr />
+  <tr>
+    <th> <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Travellerrr&show_icons=true&locale=cn&hide_border=true" />  </th>
+  </tr>
+</table>
+
+###
+
+<h3 align="left">使用语言</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
+
+###
+
+<h3 align="left">使用技术</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="40" alt="centos logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Travellerrr/Travellerrr/output/snake.svg" alt="Snake animation" />
