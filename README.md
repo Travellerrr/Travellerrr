@@ -64,4 +64,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Travellerrr/Travellerrr/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Travellerrr/Travellerrr/output/snake.svg" alt="animation" />
