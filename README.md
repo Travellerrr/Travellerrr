@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="left">使用技术</h3>
+<!--<h3 align="left">使用技术</h3>
 
 ###
 
@@ -56,10 +56,10 @@
   <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" /></a>
   <img width="12" />
   <a href="https://nginx.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" /></a>
-  <!--<img width="12" />
-  <a href="https://www.centos.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="40" alt="centos logo" /></a>-->
+  <img width="12" />
+  <a href="https://www.centos.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="40" alt="centos logo" /></a>
 </div>
-
+-->
 ###
 
 <img src="https://raw.githubusercontent.com/Travellerrr/Travellerrr/output/github-snake.svg" alt="animation" />
