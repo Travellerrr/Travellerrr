@@ -2,6 +2,8 @@
 
 ###
 
+<img align="right" alt="Travellerrr's avatar" width="180" height="180" src="https://avatars.githubusercontent.com/u/139743802" />
+
 <h2 align="left">关于我📄</h2>
 
 ###
@@ -42,9 +44,9 @@
   <a href="https://www.w3school.com.cn/html/html5_intro.asp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /></a>
 </div>
 
-###
 
-<!--<h3 align="left">使用技术</h3>
+<!--###
+<h3 align="left">使用技术</h3>
 
 ###
 
@@ -63,3 +65,7 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Travellerrr/Travellerrr/output/github-snake.svg" alt="animation" />
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Travellerrr/count.svg?"   />  
+</div>
