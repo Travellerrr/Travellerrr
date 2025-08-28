@@ -1,8 +1,8 @@
-<h1 align="left">你好呀~👋我是Travellerrr</h1>
+<h1 align="left">你好呀~👋我是Echomirix</h1>
 
 ###
 
-<img align="right" alt="Travellerrr's avatar" width="180" height="180" src="https://avatars.githubusercontent.com/u/139743802" />
+<img align="right" alt="Echomirix's avatar" width="180" height="180" src="https://avatars.githubusercontent.com/u/139743802" />
 
 <h2 align="left">关于我📄</h2>
 
@@ -20,7 +20,7 @@
 
 <table align="right">
   <tr>
-    <th> <img align="center" alt="Travellerrr's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=travellerrr&show_icons=true&locale=cn&hide_border=true" /> </th>
+    <th> <img align="center" alt="Echomirix's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=travellerrr&show_icons=true&locale=cn&hide_border=true" /> </th>
   </tr>
   <tr />
   <tr>
