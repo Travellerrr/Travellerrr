@@ -20,11 +20,11 @@
 
 <table align="right">
   <tr>
-    <th> <img align="center" alt="Echomirix's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=travellerrr&show_icons=true&locale=cn&hide_border=true" /> </th>
+    <th> <img align="center" alt="Echomirix's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Echomirix&show_icons=true&locale=cn&hide_border=true" /> </th>
   </tr>
   <tr />
   <tr>
-    <th> <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Travellerrr&show_icons=true&locale=cn&hide_border=true" />  </th>
+    <th> <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echomirix&show_icons=true&locale=cn&hide_border=true" />  </th>
   </tr>
 </table>
 
@@ -64,8 +64,8 @@
 -->
 ###
 
-<img src="https://raw.githubusercontent.com/Travellerrr/Travellerrr/output/github-snake.svg" alt="animation" />
+<img src="https://raw.githubusercontent.com/Echomirix/Echomirix/output/github-snake.svg" alt="animation" />
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Travellerrr/count.svg?"   />  
+  <img src="https://profile-counter.glitch.me/Echomirix/count.svg?"   />  
 </div>
